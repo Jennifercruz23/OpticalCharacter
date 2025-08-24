@@ -1,2 +1,1 @@
-# OpticalCharacter
-Professional OpticalCharacterRecognition solution with OpticalCharacterRecognition-optimized enterprise-grade and enterprise scalable-architecture capabilities
+.
